@@ -6,6 +6,7 @@
  * @link https://fcsapi.com
  */
 
+issue
 const FcsConfig = require('./src/FcsConfig.js');
 const FCS_Forex = require('./src/FCS_Forex.js');
 const FCS_Crypto = require('./src/FCS_Crypto.js');
